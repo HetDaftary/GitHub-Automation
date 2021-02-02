@@ -11,6 +11,6 @@ Implemented:
 * [Linux-Specific-Scripts](https://github.com/HetDaftary/GitHub-Automation/tree/main/Linux-Specfic)
   * [Commit-And-Push](https://github.com/HetDaftary/GitHub-Automation/tree/main/Linux-Specfic/Commit-And-Push)
   * [Removing-out-files-of-cpp](https://github.com/HetDaftary/GitHub-Automation/tree/main/Linux-Specfic/Removing-out-file-of-c%5Ccpp)
-  * [Upsating-The-repo](https://github.com/HetDaftary/GitHub-Automation/tree/main/Linux-Specfic/Updating-All-The-Repo)
+  * [Updating-The-repo](https://github.com/HetDaftary/GitHub-Automation/tree/main/Linux-Specfic/Updating-All-The-Repo)
 * [Windows-Specific](https://github.com/HetDaftary/GitHub-Automation/tree/main/Windows-Specific/)
   * [Commit-And-Push](https://github.com/HetDaftary/GitHub-Automation/tree/main/Windows-Specific/Commit-And-Push)
