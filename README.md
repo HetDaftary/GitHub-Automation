@@ -2,7 +2,7 @@
 The scripts I use for the automation of my github workflow.
 
 IDE used: VS Code.
-OS: Linux(Manjaro)
+OS: Manjaro Linux and Windows 10
 
 Implemented:
 * [General-Purpose-Scripts](https://github.com/HetDaftary/GitHub-Automation/tree/main/General-Purpose)
@@ -12,3 +12,5 @@ Implemented:
   * [Commit-And-Push](https://github.com/HetDaftary/GitHub-Automation/tree/main/Linux-Specfic/Commit-And-Push)
   * [Removing-out-files-of-cpp](https://github.com/HetDaftary/GitHub-Automation/tree/main/Linux-Specfic/Removing-out-file-of-c%5Ccpp)
   * [Upsating-The-repo](https://github.com/HetDaftary/GitHub-Automation/tree/main/Linux-Specfic/Updating-All-The-Repo)
+* [Windows-Specific](https://github.com/HetDaftary/GitHub-Automation/tree/main/Windows-Specific/)
+  * [Commit-And-Push](https://github.com/HetDaftary/GitHub-Automation/tree/main/Windows-Specific/Commit-And-Push)
