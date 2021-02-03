@@ -1,9 +1,6 @@
 # GitHub-Automation
 The scripts I use for the automation of my github workflow.
 
-IDE used: VS Code.
-OS: Manjaro Linux and Windows 10
-
 Implemented:
 * [General-Purpose-Scripts](https://github.com/HetDaftary/GitHub-Automation/tree/main/General-Purpose)
   * [Removing-out-files-of-cpp](https://github.com/HetDaftary/GitHub-Automation/tree/main/General-Purpose/Removing-out-file-of-cpp)
